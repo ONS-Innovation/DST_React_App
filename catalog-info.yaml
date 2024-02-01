@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "DST_Demo_ReactAPP"
+  description: "React App for demo"
+  annotations:
+    github.com/project-slug: ONS-Innovation/DST_React_App
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "group:default/sdp-test"

@@ -1,0 +1,8 @@
+site_name: "DST_Demo_ReactAPP"
+site_description: "React App for demo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
